@@ -10,7 +10,7 @@ function changeCard(event) {
 // joking whith switch case bellow
 
 let corfundo;
-corfundo = prompt("Olá, Digite nesta caixa uma cor e tente acertar a cor de fundo da página!");
+corfundo = prompt("Quem será atrás destas cortinas ?????");
 
 switch(corfundo) {
   case "verde":  
@@ -23,7 +23,7 @@ switch(corfundo) {
     alert("Essa cor iremos implementar!");
     break;
   default: // padrão - ausencia de dados
-    alert("Cor errada!");
+    alert("BUNITOOOOOOOOOO!");
     break;
 
 }
